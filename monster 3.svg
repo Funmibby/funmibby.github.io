@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xml:space="preserve"
+    viewBox="0 0 595.28 841.89"
+    version="1.1"
+    y="0px"
+    x="0px"
+    enable-background="new 0 0 595.28 841.89"
+  >
+<g
+      id="Layer_2"
+      stroke="#000"
+      fill="#64BC46"
+    >
+	<polygon
+        points="236.84 327 210.25 288.67 165.79 274.57 191.5 253.93 176.16 214.56 218.64 240.13 253.62 229.9 254.16 266.34 291.12 299.4 248.98 296.35"
+    />
+	<polygon
+        points="328.82 307.47 358.48 271.47 359.97 224.85 386.82 243.98 420.54 218.53 407.48 266.36 426.82 297.24 391.9 307.67 370.13 352.21 361.61 310.83"
+    />
+</g
+  >
+<g
+      id="Layer_1"
+      stroke="#000"
+    >
+	<ellipse
+        cy="390.62"
+        cx="299.22"
+        rx="174.4"
+        ry="176.79"
+        fill="#79C143"
+    />
+	<ellipse
+        cy="316.5"
+        cx="305.56"
+        rx="59.719"
+        ry="67.786"
+        fill="#fff"
+    />
+	<ellipse
+        cy="316.22"
+        cx="305.48"
+        rx="36.454"
+        ry="38.138"
+    />
+	<ellipse
+        cy="314.69"
+        cx="306.52"
+        rx="11.049"
+        ry="11.207"
+        fill="#fff"
+    />
+	<path
+        d="m304.88 262.72"
+    />
+	<path
+        d="m185.19 380.33"
+    />
+	<path
+        d="m311.67 350.71"
+        fill="#79C143"
+    />
+	<path
+        d="m450.12 453.76c-98.739 105.37-191.32 74.51-244.73 39.166-29.542-19.547-47.104-40.465-47.104-40.465l39.701 5.63 70.01 9.928 36.207 5.135"
+        fill="#ED2024"
+    />
+	<polyline
+        points="477 390.62 552 420.94 541 567.41 587 594 555 594 574 631 539 604 540 631 520 601 508 626 506 588 484 594 509 567.41 525 436 473.63 415"
+        fill="#70BF44"
+    />
+	<polyline
+        points="124.82 390.62 68 360 82 170 124.82 144 96.41 144 108 102 81 142 75 97 68 137 50 97 50 143 22 125 56 166 47 366.29 124.82 411"
+        fill="#6ABD45"
+    />
+	<polyline
+        points="197 472 228.09 462.36 197.99 458.09"
+        fill="#FCFAFB"
+    />
+	<polyline
+        points="236 489.31 216.07 499.6 256.07 517.82"
+        fill="#F8E7E8"
+    />
+	<path
+        d="m228.09 462.36"
+        fill="#ED2024"
+    />
+	<polyline
+        points="263.94 467.45 228.09 462.36 256.07 476 268 468.02 280 489.31 304.2 475.84"
+        fill="#F9F9FA"
+    />
+	<polyline
+        points="337.54 470 316.54 487.31 304 473.84"
+        fill="#fff"
+    />
+	<polyline
+        points="336.97 469.8 368.97 463.96 352.97 481.28"
+        fill="#fff"
+    />
+	<polyline
+        points="370 464.04 403 461.36 386.5 477.65"
+        fill="#fff"
+    />
+	<polyline
+        points="401.19 462.16 429.19 457.89 415.19 472.42"
+        fill="#fff"
+    />
+	<polyline
+        points="252.6 516.58 283.6 502.33 289.79 524.72"
+        fill="#fff"
+    />
+	<polyline
+        points="290.3 528.64 319.88 506.24 332.3 521.73"
+        fill="#fff"
+    />
+	<polyline
+        points="338.09 508.49 329.4 524.45 366.4 508.49"
+        fill="#fff"
+    />
+	<polyline
+        points="386.94 492.19 370.44 513.37 421.33 486.16"
+        fill="#fff"
+    />
+	<path
+        d="m421.33 480.91"
+        fill="#fff"
+    />
+	<polyline
+        points="205.26 539.58 169 567.41 169 730 112 730 97 737 80 737 73.41 745 73.41 753 99 753 73.41 760 73.41 768 100 762 73.41 776 197 776 228.09 771 228.09 729 212.54 730 212.54 583 236.07 555.46"
+        fill="#69BD45"
+    />
+	<polyline
+        points="393.18 539.58 421.33 567.41 421.33 727 401.19 727 401.19 762 541 762 521 746 541 741 521 729 541 727 518 719 458 722 455 567.41 421.33 517.82"
+        fill="#6CBE45"
+    />
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Mike</dc:title
+        ><dc:date
+          >2013-09-20T05:39:27</dc:date
+        ><dc:description
+          >This is Mike from Monsters Inc. </dc:description
+        ><dc:source
+          >https://openclipart.org/detail/183597/mike-by-tansyg-183597</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >tansyg</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >mrrays</rdf:li
+            ><rdf:li
+              >upload2openclipart</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
